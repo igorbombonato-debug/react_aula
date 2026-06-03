@@ -36,7 +36,7 @@ function UltimosLancamentos(){
         subtitulo="Angulo 11"
         descricao="Construindo uma aplicação com a plataforma Google."
         img={imagemLivro}
-        
+    
         />
      
          </UltimosLancamentosContainer>
